@@ -36,18 +36,6 @@ C | Python
 
 Git | GitHub | VS Code
 
-## 🚀 Featured Projects
-
-### Mini OS Scheduling Simulator
-A C-based project implementing process management and CPU scheduling algorithms.
-
-- FCFS
-- Shortest Job First (SJF)
-- Priority Scheduling
-- Round Robin
-
-🔗 [View Repository](https://github.com/hashimraza-1307/Mini-OS-Scheduler)
-
 ## 🎯 Goals
 
 - Strengthen programming fundamentals
@@ -60,7 +48,7 @@ A C-based project implementing process management and CPU scheduling algorithms.
 ## 🤝 Let's Connect
 
 - GitHub: [hashimraza-1307](https://github.com/hashimraza-1307)
-- LinkedIn: [Add your LinkedIn profile link here]
+- LinkedIn: https://www.linkedin.com/in/hashim-raza-a073b42a8/
 
 ---
 
